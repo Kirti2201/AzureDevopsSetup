@@ -14,4 +14,4 @@ Step 1: Steup Azure Devops Project
    Create a new organization if it does not exist and create a new project under it -
 <img width="314" alt="image" src="https://github.com/user-attachments/assets/ad655c82-e110-4ae9-9e87-1dc55aae6c91" />
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/6629e2e3-87b9-4b86-b747-46d47402b6df" />
-![image](https://github.com/user-attachments/assets/42412bc8-5c0a-4d6e-8a0a-3b54ae90ac2f)
+
