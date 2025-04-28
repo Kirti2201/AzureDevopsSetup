@@ -23,6 +23,7 @@ To pull the code from Github, go to the Azure  DevOps project. Go to pipelines -
 ![image](https://github.com/user-attachments/assets/716e0ce1-224a-41ed-80b8-340be3da4585)
 After this step, select Github as the code is hosted in Github.
 ![image](https://github.com/user-attachments/assets/456ea399-be20-4566-9b50-732e4069629f)
+
 It will ask to authorize Azure Pipelines to acess Github --> click Authorize
 ![image](https://github.com/user-attachments/assets/787eeeea-dd89-4ca5-afdb-f39d6d14b2d5)
 ![image](https://github.com/user-attachments/assets/b1f82cd5-6a23-40ef-ac90-a790df15f6c4)
