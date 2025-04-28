@@ -15,3 +15,4 @@ Step 1: Steup Azure Devops Project
 <img width="314" alt="image" src="https://github.com/user-attachments/assets/ad655c82-e110-4ae9-9e87-1dc55aae6c91" />
 <img width="350" alt="image" src="https://github.com/user-attachments/assets/6629e2e3-87b9-4b86-b747-46d47402b6df" />
 
+![Lav_VannTrykk](https://github.com/user-attachments/assets/0ed13c49-6b08-4c78-9465-7a6b654a170e)
